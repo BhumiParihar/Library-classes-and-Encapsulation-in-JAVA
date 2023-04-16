@@ -1,1 +1,3 @@
 # Library-classes-and-Encapsulation-in-JAVA
+# Library-classes : Java is on object-oriented language and can view everything as an object.A simple file can be treated as an object,an address of a site can be seen as an object,an image can be treated as an object and a fundamental datatype can be converted into an object(with wrapper class.).Thus class behaves as a blueprint or template for a group of objects describing a data of new datatype and is therefore referred to as user defined datatype.
+# ENCAPSULATION : Encapsulation is defined as wrapping up of data and information under a single unit.Encapsulation can be used to hide data members and members' function.
