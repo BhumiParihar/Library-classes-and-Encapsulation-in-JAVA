@@ -42,18 +42,18 @@ public class subclass extends superclass
     void getval2(int x,int y,int z,int p,int q)
     {
         a=x; // OK because default access is visible.
-        b=y; // Error because private member is not accessible
-        c=z; // OK as protected is accessible
-        d=p; // OK as publis is accessible
-        e=q; // OK as it is its own member
+        b=y; // Error because private member is not accessible.
+        c=z; // OK as protected is accessible.
+        d=p; // OK as public is accessible.
+        e=q; // OK as it is its own member.
     }
     static void getval3(int x,int y,int z,int p,int q)
     {
         subclass obj=new subclass();
         obj.a=x; // OK because default access is visible.
-        obj.b=y; // Error because private member is not accessible
-        obj.c=z; // OK as protected is accessible
-        obj.d=p; // OK as publis is accessible
-        obj.e=q; // OK as it is its own member
+        obj.b=y; // Error because private member is not accessible.
+        obj.c=z; // OK as protected is accessible.
+        obj.d=p; // OK as public is accessible.
+        obj.e=q; // OK as it is its own member.
     }
 }
