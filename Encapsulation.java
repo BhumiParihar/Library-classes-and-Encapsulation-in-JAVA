@@ -9,7 +9,7 @@ Both instance variables and methods as well as a class contains access specifier
 
 /* Java's Access specifiers: Access specifiers are keywords which are used to declare which entity cannot be accessed from any where.
 Java offers four access specifiers, listed below in decreasing order of accessibility:
-->public: It allows a global access, i.e. it allows members to be accessed by other classes or sub-classesin the same package or classes or subclasses in a different package.
+->public: It allows a global access, i.e. it allows members to be accessed by other classes or sub-classes in the same package or classes or subclasses in a different package.
 ->protected: it allows accessibility within the same package by both classes and sub-classes but only by sub-classes in a different package.
 ->default/friendly: it allows the accessibility in the same package only.
 ->private: It allows limited access. It allows accessibility within the same class only, but not by other classes or sub-classes in the same package or different package.*/
