@@ -18,7 +18,7 @@ class AutoBoxingInFuncyionsx
 }
 
 /*
-Unboxing: Converting an object of a wrapper type to itd corresponding primtive value is called unboxing.
+Unboxing: Converting an object of a wrapper type to its corresponding primtive value is called unboxing.
 The Java compiler applies unboxing when an object of a wrapper class is:
 -> Assigned to a variable of the corresponding primitive type.
 -> Passed as a parameter to a method that expects a value of the corresponding primitive type.*/
