@@ -38,7 +38,7 @@ class UnBoxingInFuncyionsx
 
 /***ADVANTAGES OF AUTOBOXING/UNBOXING**
 -> Autoboxing and Unboxing lets developer write cleaner code, making it easier to read.
--> The technique let us use primitive types and Wrapper class objects interchangeab;y and we do not need to perform any typecasting explicitly.*/
+-> The technique let us use primitive types and Wrapper class objects interchangeably and we do not need to perform any typecasting explicitly.*/
 
 /* some wrapper classes:
 -> Two interesting symbolic constants named MAX_VALUE and MIN_VALUE are associated with Numeric wrapper class objects to determine the maximum value and minimum value respectively a wrapper class object can hold.
