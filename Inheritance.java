@@ -1,4 +1,4 @@
-/* Inheritance is a mechanism wherein a new class is derived from an existing class. The class which is being in being inherited is called superclass or baseclass and the class which inherits the properties is called subclass or derived class.The derived class can inherit the property of superclass or baseclass by using the keyword "extends".
+/* Inheritance is a mechanism wherein a new class is derived from an existing class. The class which is being inherited is called superclass or baseclass and the class which inherits the properties is called subclass or derived class.The derived class can inherit the property of superclass or baseclass by using the keyword "extends".
 Program to demonstrate Inheritance*/
 class superclass
 {
