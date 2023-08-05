@@ -1,4 +1,4 @@
-/*LIBRARY CLASSES : these are the pre compiled classes of JAVA
+/*LIBRARY CLASSES : These are the pre compiled classes of JAVA
 CLASS AS COMPOSITE Datatype: composite Datatype refers to a datatype,created and customised by user ,by combining primitive datatypes and other composite datatypes.*/
 class Student
 {
